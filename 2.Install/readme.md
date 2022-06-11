@@ -151,3 +151,9 @@ Vue.createApp({
 ```
 
 当使用 `vue-loader` 时，`*.vue` 文件中的模板会在构建时预编译为 JavaScript，在最终的捆绑包中并不需要编译器，因此可以只使用运行时构建版本。
+
+
+
+## 源码
+
+[查看源码](https://github.com/zhaifanhua/Learning-Vue/tree/main/2.Install)

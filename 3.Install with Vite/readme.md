@@ -216,7 +216,10 @@ yarn
 yarn dev
 ```
 
+在浏览器打开
 
+![image-20220612010505096](https://cdn.zhaifanhua.com/blog/img/202206120301402.png)
 
 ## 源码
 
+[查看源码](https://github.com/zhaifanhua/Learning-Vue/tree/main/3.Install%20with%20Vite)
